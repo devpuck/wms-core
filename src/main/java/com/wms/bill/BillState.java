@@ -12,4 +12,5 @@ public class BillState
     public static String PART_FINISHED = "part_finished";
     //处理结束
     public static String FINISHED = "finished";
+    //
 }
